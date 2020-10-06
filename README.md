@@ -1,3 +1,11 @@
+## Tic Tac Toe
+
+# About
+
+This project was made following the React.js tutorial at the documentation. You can see the original tutorial [here](https://pt-br.reactjs.org/tutorial).
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
